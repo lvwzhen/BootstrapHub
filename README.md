@@ -31,6 +31,8 @@ A Hub for Bootstrap
 |[bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)|Query customization of input html file for Bootstrap|
 |[bootstrap-validator](https://github.com/1000hz/bootstrap-validator)|A user-friendly HTML5 form validation jQuery plugin for Bootstrap|
 |[select2](https://github.com/select2/select2)|Select2 is a jQuery based replacement for select boxes|
+|[bootstrap-show-password](https://github.com/wenzhixin/bootstrap-show-password)|Show/hide password plugin for twitter bootstrap|
+|[Bootstrap TouchSpin](https://github.com/istvan-ujjmeszaros/bootstrap-touchspin/)|A mobile and touch friendly input spinner component for Bootstrap|
 
 
 ##Modal
@@ -43,6 +45,13 @@ A Hub for Bootstrap
 |[lightbox](https://github.com/ashleydw/lightbox)|A lightbox gallery plugin for Bootstrap 3|
 |[Submodal](https://github.com/jakiestfu/Submodal)|Add submodals to Bootstrap 3.x modals|
 
+
+#Menu
+| Name | description |
+| ----|--------|
+|[metisMenu](https://github.com/onokumus/metisMenu)|A jQuery menu plugin|
+|[yamm](https://github.com/geedmo/yamm)|Yet another Megamenu for Bootstrap|
+|[bootstrap-treeview](https://github.com/jonmiles/bootstrap-treeview)|Tree View for Twitter Bootstrap|
 
 #Calendar
 | Name | description |
