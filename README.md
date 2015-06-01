@@ -57,7 +57,7 @@ A Hub for Bootstrap
 |[twbs-pagination](https://github.com/esimakin/twbs-pagination)|jQuery pagination plugin|
 |[bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)|Bootstrap plugin for markdown editing|
 |[bootstrap-colorpicker](https://github.com/mjolnic/bootstrap-colorpicker)|A nice and customizable colorpicker plugin for Twitter Bootstrap|
-|[bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/)]|Tiny bootstrap-compatible WISWYG rich text editor|
+|[bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/)|Tiny bootstrap-compatible WISWYG rich text editor|
 |[bootstro.js](https://github.com/clu3/bootstro.js)|Tiny JS library using bootstrap's popovers to help guide your users around your website|
 |[bootstrap-notify](https://github.com/goodybag/bootstrap-notify/)|Bootstrap alert system made better, builds off of bootstrap-alert.js|
 
